@@ -5,5 +5,6 @@
 		<input type="text" name="inp2"><br>
 		<input type="submit" value="Sumit">
 	</form>
+	<h1>Heading</h1>
 </body>
 </html>
